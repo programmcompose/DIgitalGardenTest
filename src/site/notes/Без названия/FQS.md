@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Без названия/FQS/"}
+{"dg-publish":true,"permalink":"/bez-nazvaniya/fqs/"}
 ---
 
 АЦЙ
